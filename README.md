@@ -1,10 +1,6 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
+## ChatWeb
+### Overview
+This repository contains the frontend client for a real-time chat application. The client is built using React and SignalR to enable real-time communication between clients. For enable full using in this client, clone the server for this app from this link https://github.com/YoniThee/ChatWebBackend.git
 
 ### `npm start`
 
@@ -12,6 +8,7 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 Now you will see an login screen that look like this:
+
 ![image](https://github.com/user-attachments/assets/63425609-92a9-4859-9cf6-30137504aee7)
 
 if it is the first time that you are using this app fill username and password and register
